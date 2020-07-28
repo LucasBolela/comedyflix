@@ -24,7 +24,9 @@ export const ExtraLink = styled.a`
   transition: opacity .3s;
   &:hover,
   &:focus {
-    opacity: .5;
+    opacity: .8;
+    width: 360px;
+    height: 204px;
   }
   @media (max-width: 800px) {
     display: block;
