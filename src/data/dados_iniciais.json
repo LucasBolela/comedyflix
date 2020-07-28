@@ -1,0 +1,95 @@
+{
+  "categorias": [
+    {
+      "titulo": "4 Amigos",
+      "link": "https://lojaoficial4amigos.com.br/sobre/?v=9a5a5f39f4c7",
+      "cor": "transparent",
+      "link_extra": {
+        "text": "Canal de Stand-Up 4 Amigos - Thiago Ventura, Dih Lopes, Afonso Padilla e Marcio Donatto",
+        "url": "https://www.youtube.com/channel/UCYM04a9yva0wMQ7bPlii4rg"
+      },
+      "videos": [
+        {
+          "titulo": "4 AMIGOS - ESPECIAL DE COMÉDIA 2019 - ÚLTIMA FILA DE PIADAS #150",
+          "url": "https://www.youtube.com/watch?v=c6a1M1oOmNE"
+        },
+        {
+          "titulo": "4 AMIGOS - ESPECIAL COMPLETO “ TE APRESENTO MEU AMIGO” - FILA DE PIADAS #100",
+          "url": "https://www.youtube.com/watch?v=16gSBDTPGSA"
+        },
+        {
+          "titulo": "FILA DE PIADAS - HISTÓRIAS CONSTRANGEDORAS - #51 feat. Renato Albani",
+          "url": "https://www.youtube.com/watch?v=XzQCZHVmk4k"
+        },
+        {
+          "titulo": "FILA DE PIADAS - DINHEIRO - #123 Participação Paulinho Gogó",
+          "url": "https://www.youtube.com/watch?v=9GlIYSjwLKM"
+        },
+        {
+          "titulo": "BANCA DE PIADAS - FÉRIAS - #09",
+          "url": "https://www.youtube.com/watch?v=CyENzTu20to"
+        },
+        {
+          "titulo": "BANCA DE PIADAS - ESPORTE - #07 Participação Ale Oliveira",
+          "url": "https://www.youtube.com/watch?v=-BK848PVfBQ"
+        },
+        {
+          "titulo": "BANCA DE PIADAS - POBREZA - #08",
+          "url": "https://www.youtube.com/watch?v=M3kd_5nT3EI"
+        },
+        {
+          "titulo": "BANCA DE PIADAS - INTERNET - #02",
+          "url": "https://www.youtube.com/watch?v=PY34TR5DKhc"
+        }        
+      ]
+    },
+    {
+      "titulo": "Memes",
+      "cor": "transparent",
+      "link_extra": {
+        "text": "Cinema dos Memes",
+        "url": "https://www.youtube.com/channel/UCsuaQOOAfK9wf3DN5pga7cA"
+      },
+      "videos": [
+        {
+          "titulo": "TENTE NÃO RIR de E-GIRL kkkkkkkk",
+          "url": "https://www.youtube.com/watch?v=5JpkviJ9MvY"
+        },
+        {
+          "titulo": "Cinema dos MEMES com o ❤️ GALÃ DO TIKTOK ❤️",
+          "url": "https://www.youtube.com/watch?v=qETEKilzwW8"
+        },
+        {
+          "titulo": "OS MEMES NÃO PERDOAM NINGUÉM kkkkkkkk - Cinema dos MEMES",
+          "url": "https://www.youtube.com/watch?v=48ITVophmks"
+        },
+        {
+          "titulo": "PQ EU RI DISSO? kkkkkkkkkkkk - Cinema dos MEMES",
+          "url": "https://www.youtube.com/watch?v=lfJe-C1Wb0Q"
+        }, 
+        {
+          "titulo": "A NOVA MODA DA QUARENTENA 😱 - Cinema dos MEMES",
+          "url": "https://www.youtube.com/watch?v=d1thZc760Yk&t=1s"
+        }
+      ]
+    },
+    {
+      "titulo": "",
+      "cor": "transparent",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/"
+        }
+      ]
+    }    
+  ]
+}
