@@ -30,9 +30,11 @@ function CadastroCategoria() {
 
   useEffect(() => {
     console.log('Vamuu');
-    const URL = 'http://localhost:8080/categorias';
-    fetch(URL).then((resposta) => {
-      const respostaObj = resposta.json();
+    const URL = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/categorias'
+      : 'https://comedix.herokuapp.com/categorias';
+    fetch(URL).then(async (resposta) => {
+      const respostaObj = await resposta.json();
       setCategorias([
         ...respostaObj,
       ]);
