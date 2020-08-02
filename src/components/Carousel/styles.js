@@ -7,14 +7,14 @@ export const Title = styled.h3`
   line-height: 1;
   margin-bottom: 16px;
   display: inline-block;
-  padding: 20px;
-  background: red;
+  padding: 20px 0;
+  background: transparent;
   line-height: 1;
   border-radius: 4px;
 
   @media (max-width: 800px) {
-    font-size: 18px;
-    padding: 10px;
+    font-size: 30px;
+    padding: 5px 0;
   }
 `;
 
@@ -25,8 +25,8 @@ export const ExtraLink = styled.a`
   &:hover,
   &:focus {
     opacity: .8;
-    width: 360px;
-    height: 204px;
+    /* width: 360px;
+    height: 204px; */
   }
   @media (max-width: 800px) {
     display: block;

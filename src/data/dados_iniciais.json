@@ -3,7 +3,6 @@
     {
       "titulo": "4 Amigos",
       "link": "https://lojaoficial4amigos.com.br/sobre/?v=9a5a5f39f4c7",
-      "cor": "transparent",
       "link_extra": {
         "text": "Canal de Stand-Up 4 Amigos - Thiago Ventura, Dih Lopes, Afonso Padilla e Marcio Donatto",
         "url": "https://www.youtube.com/channel/UCYM04a9yva0wMQ7bPlii4rg"
@@ -45,7 +44,6 @@
     },
     {
       "titulo": "Memes",
-      "cor": "transparent",
       "link_extra": {
         "text": "Cinema dos Memes",
         "url": "https://www.youtube.com/channel/UCsuaQOOAfK9wf3DN5pga7cA"
@@ -75,7 +73,6 @@
     },
     {
       "titulo": "",
-      "cor": "transparent",
       "link_extra": {
         "text": "",
         "url": ""
